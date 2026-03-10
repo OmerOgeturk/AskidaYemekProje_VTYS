@@ -32,3 +32,9 @@ Gizlilik: Bağışçılar isterlerse kimliklerini gizleyerek (Anonim) bağış y
 İhtiyaç Sahibi Doğrulaması: Sadece sistem yöneticisi tarafından IsVerified = 1 olarak onaylanmış kullanıcılar askıdaki bakiyeyi kullanabilir.
 
 Otomasyon: Bir bağış yapıldığında havuz bakiyesi artar; askıdan bir sipariş verildiğinde ise havuz bakiyesi otomatik olarak düşer (Trigger ile kontrol edilir).
+
+
+## 📐 Veritabanı Tasarımı (ER Diyagramı)
+Sistemdeki tablo ilişkilerini ve kısıtlamaları (PK, FK, CHECK) gösteren diyagram aşağıdadır:
+
+![Askıda Yemek ER Diyagramı](IMAGES/er_diagram.png)
