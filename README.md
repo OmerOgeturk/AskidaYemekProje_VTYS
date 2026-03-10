@@ -1,4 +1,4 @@
-                                                                                             İŞ KURALLARI 
+                                                                        İŞ KURALLARI 
 
 
 1. Genel İş Kuralları
