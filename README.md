@@ -1,4 +1,4 @@
-                                                                        İŞ KURALLARI 
+                                                                İŞ KURALLARI 
 
 
 1. Genel İş Kuralları
@@ -38,3 +38,7 @@ Otomasyon: Bir bağış yapıldığında havuz bakiyesi artar; askıdan bir sipa
 Sistemdeki tablo ilişkilerini ve kısıtlamaları (PK, FK, CHECK) gösteren diyagram aşağıdadır:
 
 ![Askıda Yemek ER Diyagramı](IMAGES/er_diagram.png)
+
+
+
+"Sistemde şu an 5 restoran, 50 ürün ve 100 aktif sipariş hareketi bulunmaktadır. Test verileri başarıyla yüklenmiştir.".
