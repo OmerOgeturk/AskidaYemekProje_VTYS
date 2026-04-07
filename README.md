@@ -1,4 +1,4 @@
-                                                                İŞ KURALLARI 
+                                                
 
 
 1. Genel İş Kuralları
@@ -42,3 +42,12 @@ Sistemdeki tablo ilişkilerini ve kısıtlamaları (PK, FK, CHECK) gösteren diy
 
 
 "Sistemde şu an 5 restoran, 50 ürün ve 100 aktif sipariş hareketi bulunmaktadır. Test verileri başarıyla yüklenmiştir.".
+
+
+
+AI Kullanım Beyanı:
+Bu projenin tasarım ve geliştirme sürecinde Gemini (Yapay Zeka Asistanı) aşağıdaki aşamalarda asistan olarak kullanılmıştır:
+* Mantıksal Tasarım: "Askıda Yemek" modülünün bakiye bazlı (Model B) kurgulanması ve tablo ilişkilerinin (1:N, PK/FK) planlanması.
+* Kod Geliştirme: SQL DDL scriptlerinin oluşturulması, özellikle karmaşık Trigger ve View yapılarının yazımı ve hata ayıklama süreçleri.
+* Veri Üretimi: Sistem gereksinimlerini karşılamak adına 100 adet anlamlı sipariş hareketi ve 50 ürünlük mock data setinin üretilmesi.
+* Fonksiyonların Öğrenilmesi ve Kullanılması: bilinmeyen fonksiyon yapıları AI tarafından projede kullanılmak üzere öğrenilmiştir.
